@@ -11,6 +11,7 @@ It will result movies.db with every fetched record inside.
 
 Step 3. Displaying data in a simple interface
 --
+Moving on to displaying some tables, in the folder display_tables_django. <br>
 To run locally at http://localhost:8000/:
 ```
 python manage.py runserver
